@@ -7,7 +7,7 @@
 # GitHub Stats
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=YDC-Deadly&show_icons=true&hide_title=true)](https://github.com/YDC-Deadly)
+[![Stats](https://github-readme-stats.vercel.app/api?username=YDC-Deadly&show_icons=true&hide_title=true)](https://github.com/User00092)
 <!--
 **User00092/User00092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
