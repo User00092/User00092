@@ -1,5 +1,5 @@
 # Social
-[![Youtube](https://img.shields.io/badge/%20YouTube-1567da.svg)]([https://www.youtube.com/channel/UCkIaXJkuRGKSEYnlEvxKMiw](https://www.youtube.com/channel/UC3wKq0NLwP5XQGnQ7p5zgwQ))
+[![Youtube](https://img.shields.io/badge/%20YouTube-1567da.svg)](https://www.youtube.com/channel/UC3wKq0NLwP5XQGnQ7p5zgwQ)
 
 
 [![Chat](https://img.shields.io/badge/Discord-6289da.svg)](https://discord.gg/Vemmf6GECg)
