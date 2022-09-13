@@ -1,3 +1,10 @@
+### ⚡Languages
+Python
+HTML
+CSS
+C++
+
+
 # Social
 [![Youtube](https://img.shields.io/badge/%20YouTube-1567da.svg)](https://www.youtube.com/channel/UC3wKq0NLwP5XQGnQ7p5zgwQ)
 
