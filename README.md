@@ -1,7 +1,7 @@
 ### ⚡Languages
-Python
-HTML
-CSS
+Python\n
+HTML\n
+CSS\n
 C++
 
 
