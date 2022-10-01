@@ -4,6 +4,7 @@
 | :---: | :---: |
 | <a href="https://www.python.org/" target="_blank">Python</a>        | <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>           |
 | <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>          | <a href="https://www.javascript.com/" target="_blank">JavaScript</a>    |
+|       | <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a> |
 
 
 # Social
