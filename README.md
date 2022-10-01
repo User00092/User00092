@@ -2,6 +2,7 @@
 <table>
   <ul>
     <li><a href="https://www.python.org/" target="_blank">Python</a></li>
+    <li><a href="https://www.javascript.com/" target="_blank">JavaScript</a></li>
   </ul>
 </table>
 
