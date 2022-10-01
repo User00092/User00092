@@ -4,6 +4,8 @@
     <li><a href="https://www.python.org/" target="_blank">Python</a></li>
     <li><a href="https://www.javascript.com/" target="_blank">JavaScript</a></li>
     <li><a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a></li>
   </ul>
 </table>
 
