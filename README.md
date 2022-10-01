@@ -9,7 +9,7 @@
 # Projects ⚡
 <table>
   <ul style="table-style: none;">
-    <li><a href="https://web.user0092.ml/" target="_blank">Website</a> (Planning on rebuilding after learning JS and CSS!</li>
+    <li><a href="https://web.user0092.ml/" target="_blank">Website</a> (Planning on rebuilding after learning JS and CSS!)</li>
   </ul>
 </table>
 
