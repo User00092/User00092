@@ -1,4 +1,4 @@
-### ⚡Languages
+# Languages
 
 | Experienced   | Learning      |
 | :---: | :---: |
