@@ -6,6 +6,12 @@
 | <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>          | <a href="https://www.javascript.com/" target="_blank">JavaScript</a>    |
 |       | <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a> |
 
+# Projects ⚡
+<table>
+  <ul style="table-style: none;">
+    <li><a href="https://web.user0092.ml/" target="_blank">Website</a> (Planning on rebuilding after learning JS and CSS!</li>
+  </ul>
+</table>
 
 # Social
 [![Youtube](https://img.shields.io/badge/%20YouTube-1567da.svg)](https://www.youtube.com/channel/UC3wKq0NLwP5XQGnQ7p5zgwQ)
