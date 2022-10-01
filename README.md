@@ -1,7 +1,7 @@
 ### ⚡Languages
 <table>
   <ul>
-    <li><a href="https://www.python.org/">Python</a></li>
+    <li><a href="https://www.python.org/" target="_blank">Python</a></li>
   </ul>
 </table>
 
