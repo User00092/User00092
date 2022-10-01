@@ -3,7 +3,7 @@
 | Experienced   | Learning      |
 | ------------- | ------------- |
 | <a href="https://www.python.org/" target="_blank">Python</a>        | <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>           |
-| HTML          | JavaScript    |
+| <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>          | <a href="https://www.javascript.com/" target="_blank">JavaScript</a>    |
 
 
 # Social
