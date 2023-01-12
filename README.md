@@ -1,40 +1,19 @@
-# Languages ⚡
+# Welcome to my GitHub Profile
 
-| Experienced   | Learning      |
-| :---: | :---: |
-| <a href="https://www.python.org/" target="_blank">Python</a>        | <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>           |
-| <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>          | <a href="https://www.javascript.com/" target="_blank">JavaScript</a>    |
-|       | <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a> |
+I am a developer with experience in Python, JavaScript, HTML, and CSS. I am passionate about creating clean and efficient code, and am always looking for new challenges to tackle.
 
-# Projects ⚡
-<table>
-  <ul style="table-style: none;">
-    <li><a href="https://web.user0092.ml/" target="_blank">Website</a> (Planning on rebuilding after learning JS and CSS!)</li>
-    <li>Discord Bot(s)</li>
-  </ul>
-</table>
+## Skills
+- Python
+- JavaScript
+- HTML
+- CSS
 
-# Social
-[![Youtube](https://img.shields.io/badge/%20YouTube-1567da.svg)](https://www.youtube.com/channel/UC3wKq0NLwP5XQGnQ7p5zgwQ)
+## Projects
 
+- [Project Name](link) - A brief description of the project and what technologies it was built with
+- [Project Name](link) - A brief description of the project and what technologies it was built with
 
-[![Chat](https://img.shields.io/badge/Discord-6289da.svg)](https://discord.gg/Vemmf6GECg)
+## Contact
+- Website: [user0092.ml](https://user0092.ml)
 
-# GitHub Stats
-
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=User00092&show_icons=true&hide_title=true)](https://github.com/User00092)
-<!--
-**User00092/User00092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! Feel free to take a look around and check out my projects.
