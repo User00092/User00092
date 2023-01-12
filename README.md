@@ -10,8 +10,7 @@ I am a developer with experience in Python, JavaScript, HTML, and CSS. I am pass
 
 ## Projects
 
-- [Project Name](link) - A brief description of the project and what technologies it was built with
-- [Project Name](link) - A brief description of the project and what technologies it was built with
+- [NG Mucsic Bot](https://docs.user0092.ml/NGMusicBot/) - A discord music bot.
 
 ## Contact
 - Website: [user0092.ml](https://user0092.ml)
