@@ -14,6 +14,6 @@ I am a developer with experience in Python, JavaScript, HTML, and CSS. I am pass
 - Website: [user0092.ml](https://user0092.ml)
 
 ## Contact
-- [Email](mailto:0092@user0092.ml) - 0092@user0092.ml
+- Email - 0092@user0092.ml
 
 Thank you for visiting my profile! Feel free to take a look around and check out my projects.
