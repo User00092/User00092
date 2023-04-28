@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile
+# Welcome!
 
 I am a developer with experience in Python, JavaScript, HTML, and CSS. I am passionate about creating clean and efficient code, and am always looking for new challenges to tackle.
 
