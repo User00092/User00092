@@ -7,6 +7,7 @@ I am a developer with experience in Python, JavaScript, HTML, CSS, and Lua/Pluto
 - JavaScript
 - HTML
 - CSS
+- Lua/Pluto
 
 ## Projects
 
