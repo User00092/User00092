@@ -9,6 +9,10 @@ I am a developer with experience in Python, JavaScript, HTML, CSS, and Lua/Pluto
 - CSS
 - Lua/Pluto
 
+## Certifications
+- Python
+ - Microsoft MTA certification, 2022
+
 ## Projects
 
 - [NG Mucsic Bot](https://docs.user0092.ml/NGMusicBot/) - A discord music bot.
