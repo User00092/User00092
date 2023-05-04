@@ -11,7 +11,7 @@ I am a developer with experience in Python, JavaScript, HTML, CSS, and Lua/Pluto
 
 ## Certifications
 - Python
-\t - Microsoft MTA certification, 2022
+    - Microsoft MTA certification, 2022
 
 ## Projects
 
