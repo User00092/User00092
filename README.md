@@ -18,6 +18,6 @@ I am a developer with experience in Python, JavaScript, HTML, CSS, and Lua/Pluto
 - Email - user0092@user0092.ml
 
 ## Donate
-Want to support what I do? Send a donation via cash app! [user0092](https://cash.app/$user0092)
+Want to support what I do? Send a donation via cash app! [$user0092](https://cash.app/$user0092)
 
 Thank you for visiting my profile! Feel free to take a look around and check out my projects.
