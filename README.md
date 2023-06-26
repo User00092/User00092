@@ -10,13 +10,13 @@ I am a developer with experience in Python, JavaScript, HTML, CSS, and Lua/Pluto
 - Lua/Pluto
 
 ## Certifications
-- Python
-    - Microsoft MTA certification, 2022
+- [Microsoft MTA (Python)](https://support.microsoft.com/en-us/topic/earn-a-microsoft-technology-associate-mta-certification-357215d0-31ce-0620-feba-1bb60165b770)
+- ![mta-introduction-to-programming-using-python-certified-2022](https://github.com/User00092/User00092/assets/103274860/9f6ec4d7-8e77-4c34-b062-2e0a3ce4e5e9)
 
 ## Projects
 
-- [NG Mucsic Bot](https://docs.user0092.ml/NGMusicBot/) - A discord music bot.
 - Website: [user0092.ml](https://user0092.ml)
+- 
 
 ## Contact
 - Email - user0092@user0092.ml
