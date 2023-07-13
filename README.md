@@ -22,6 +22,6 @@ I am a developer with experience in Python, JavaScript, HTML, CSS, and Lua/Pluto
 - Email - contact@user0092.online
 
 ## Donate
-Want to support what I do? Send a donation via [CashApp](https://cash.app/$user0092) or [Crypto](https://user0092.cb.id). I appreciate any donation!
+Want to support what I do? Send a donation via [CashApp](https://cash.app/$softwaredev92) or [Crypto](https://nowpayments.io/donation/user0092). I appreciate any donation!
 
 Thank you for visiting my profile! Feel free to take a look around and check out my projects.
