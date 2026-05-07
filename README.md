@@ -18,6 +18,7 @@ I am an Automotive Technology student and an hobbyist developer specializing in 
 
 ## Certifications
 - Microsoft MTA (Python)
+- Meta Backend Engineering L1
 
 ## Contact
 Email: notacansoup@pm.me
