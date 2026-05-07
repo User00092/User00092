@@ -12,7 +12,7 @@ I am an Automotive Technology student and an hobbyist developer specializing in 
 - Database Management
 
 ## Key Projects
-- **Mishka**: Feature-rich Discord bot for moderation and automation.
+- **Mishka**: Feature-rich [Discord bot](https://mishka.bot/) for moderation and automation.
 - **Ubuntu6GhzWifiWorkaround**: Python-based connectivity watchdog.
 - **Elyra** `private`: multimodal AI assistant powered by Google's Gemini Live API that features real-time low-latency voice interaction, screen sharing, and webcam capabilities
 
